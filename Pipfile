@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+langchain = "*"
+openai = "*"
+psycopg2 = "*"
+python-environ = "*"
+langchain-experimental = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
