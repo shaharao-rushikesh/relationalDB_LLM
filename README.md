@@ -81,10 +81,3 @@ Feel free to explore and contribute to the project, enhancing its functionality 
 
 **Note:** Make sure to adhere to the security measures by appropriately configuring the `.env` file before running the application.
 
-## Contributions
-
-Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects.
