@@ -57,6 +57,24 @@ To get started with the Relational Database Query System, follow these steps:
 4. Convert the structured database output into a coherent natural language response using NLG.
 5. Display the response to the user.
 
+## Repository Information
+
+This repository is organized to facilitate a seamless understanding and implementation of the Relational Database Query System. Here's a breakdown of the key components:
+
+- **`main` Folder:** Contains the core logic of the system in the `main.py` file. This is where the primary functionality and processing occur.
+
+- **`.env` File:** Before running the application, make sure to add your GPT API key and the local SQL DBMS password to the `.env` file. This ensures secure and authorized access to the required services.
+
+- **`app.py` File:** In this file, a Streamlit UI will be implemented, providing a user-friendly interface for interacting with the system.
+
+- **`db.py` File:** This file is dedicated to handling SQL operations, ensuring efficient and organized management of database interactions.
+
+- **`Pipfile`:** Lists the necessary dependencies for the project. Run `pip install pipenv` and then `pipenv install` to set up the virtual environment with the required packages.
+
+Feel free to explore and contribute to the project, enhancing its functionality and usability. If you encounter any issues or have suggestions, please open an issue or submit a pull request. Your contributions are highly valued!
+
+**Note:** Make sure to adhere to the security measures by appropriately configuring the `.env` file before running the application.
+
 ## Contributions
 
 Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request.
